@@ -1,6 +1,6 @@
 # Telegram To Google Drive
-**A Telegram bot to upload files from Telegram or Direct links to Google Drive.**
-- Find it on Telegram as [Google Drive Uploader](https://t.me/DoubleT2245)
+**Telegram က File တွေကို Rename ပေးပြီးတင်လို့ရပါတယ်.**
+- Find it on Telegram as [Telegram to Google Drive Uploader](https://t.me/DoubleT2245)
 
 ## Features
 - [X] Telegram files to Google Drive support.
