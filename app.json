@@ -23,7 +23,8 @@
       "value": "841100316 1884506699"
     },
     "SUPPORT_CHAT_LINK": {
-      "description": "Support Chat link in valid url format."
+      "description": "Support Chat link t."
+       "value": "https://t.me/tzmclomebot"
     },
     "DOWNLOAD_DIRECTORY": {
       "description": "Custom path for downloads. Must end with a forward slash.",
