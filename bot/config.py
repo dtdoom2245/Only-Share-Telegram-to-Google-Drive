@@ -1,5 +1,5 @@
 class config:
-    BOT_TOKEN = "5509184691:AAH9IHEt9YCYKhNf3e5j-JF3DnCUzVQJAws"
+    BOT_TOKEN = "5438012911:AAH9yjd5nN9gRxkvzpHitsPbx31muLIy_d8"
     APP_ID = "6132607"
     API_HASH = "f9a39e382167a865d850da0c51790448"
     DATABASE_URL = "postgresql://xmhrimkyuhfzwy:9437afa35ec650de8d40fe0560d6815e508b7c967731080474d85254d87e83d0@ec2-44-205-112-253.compute-1.amazonaws.com:5432/dao08ce18qd9jq"
@@ -7,7 +7,7 @@ class config:
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = "1090897738078-o0u5rkvfbq6v90sdmomcu1hsjfqli4jc.apps.googleusercontent.com"
     G_DRIVE_CLIENT_SECRET = "PiCUKgtasuK2gnfLbvsw5jSh"
-    SUPPORT_CHAT_LINK = "https://t.me/tzmclomebot"
+    SUPPORT_CHAT_LINK = "https://t.me/DoubleT2245"
  
 
 class BotCommands:
